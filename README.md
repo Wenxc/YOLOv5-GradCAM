@@ -1,6 +1,6 @@
 # yolov5-grad-cam
 A simple implementation of Grad-cam for YOLO-v5. 
-To be more simple, You can just copy PlotCAM.py into your project and run it 
+To be simpler, You can just copy PlotCAM.py into your project and run it 
 
 Please  give a ⭐ if this functionality benefits your research and projects.
 
